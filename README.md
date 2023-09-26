@@ -35,16 +35,15 @@ $ ls -l
 These commands may delete or overwrite your files and directories
 Make sure to backup your important contents
 - cp: copy files and directories
-![](https://i.ibb.co/Y3j10HV/032132.png)
-![](https://i.ibb.co/fD2QLqy/00.png)
+![](https://i.ibb.co/gmYbpQs/032132.png)
+![](https://i.ibb.co/TcD4Jm2/00.png)
 - mv: move files and directories or rename them
-![](https://i.ibb.co/9yjSBWL/00000000002.png)
-![](https://i.ibb.co/sJn0b0y/000000000003.png)
+![](https://i.ibb.co/tYY1Pbc/00000000002.png)
+![](https://i.ibb.co/K6YY9vB/000000000003.png)
 - rm: delete files and directories **permantely and irreversevely**
-![](https://i.ibb.co/s26NYYS/012556564456546.png)
+![](https://i.ibb.co/VxBCSDP/012556564456546.png)
 - mkdir:make a new directory
-
-![](https://i.ibb.co/J2DG2b5/00000000000000000000000.png)
+![](https://i.ibb.co/rt04BN4/00000000000000000000000.png)
 ---
 ![](https://cyber.gachon.ac.kr/ubion_document/f4/d0/f4d0d90d47869136690b2ef358d6e648b94d400c/f4d0d90d47869136690b2ef358d6e648b94d400c.files/28.png)
 ### Help command
