@@ -43,6 +43,7 @@ Make sure to backup your important contents
 - rm: delete files and directories **permantely and irreversevely**
 ![](https://i.ibb.co/s26NYYS/012556564456546.png)
 - mkdir:make a new directory
+
 ![](https://i.ibb.co/J2DG2b5/00000000000000000000000.png)
 ---
 ![](https://cyber.gachon.ac.kr/ubion_document/f4/d0/f4d0d90d47869136690b2ef358d6e648b94d400c/f4d0d90d47869136690b2ef358d6e648b94d400c.files/28.png)
